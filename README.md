@@ -1,2 +1,2 @@
-# 1Daybestseller.github-io
+# 1Daybestseller.github.io
 Web developer
